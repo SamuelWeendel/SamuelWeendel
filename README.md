@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <h1>Seja bem vindo ao meu perfil</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/SamuelWendel55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelwendel55@gmail.com)](mailto:samuelwendel55@gmail.com)
+
+[![Instagram Badge](https://img.shields.io/badge/-SamuelWendel-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/_.samuelwendel//?hl=pt-br)](https://www.instagram.com/_.samuelwendel/)
