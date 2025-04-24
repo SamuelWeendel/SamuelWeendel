@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <h2>Curso Engenharia da Computação</h2>
-
+    <img align="center" src="https://www.uninorte.com.br/wp-content/uploads/2015/02/nova-marca.png" width="200">
 
 <h1>Seja bem vindo ao meu perfil</h1>
 
